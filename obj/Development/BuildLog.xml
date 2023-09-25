@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo>
+    <Name>NorthWidthETL</Name>
+    <LastWriteTime>2023-09-24T16:47:52.5446246Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>DimShippers.dtsx</Name>
+      <LastWriteTime>2023-09-23T19:32:07.1318858Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DimCustomers.dtsx</Name>
+      <LastWriteTime>2023-09-23T21:22:40.5844552Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DimEmployees.dtsx</Name>
+      <LastWriteTime>2023-09-23T21:19:57.1828589Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>DimProducts.dtsx</Name>
+      <LastWriteTime>2023-09-24T15:49:11.8927592Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>FactOrders.dtsx</Name>
+      <LastWriteTime>2023-09-24T21:46:49.0073685Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
